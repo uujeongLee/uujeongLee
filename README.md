@@ -14,6 +14,10 @@ Whether debugging late at night or celebrating that first successful deployment,
 
 From blockchain-powered platforms to multimodal AI systems, I’ve enjoyed working across the stack — from Solidity contracts to React interfaces, from Vision Transformers to UX-focused design.
 
+I also happen to love 🥦 **broccoli** — and my GitHub is a reflection of that.  
+Just like each tiny floret forms a complete, vibrant broccoli, I believe every **small project** and **every green contribution square** adds up to something bigger.  
+This space is where I grow, one thoughtful commit at a time.
+
 ---
 
 ## 🧠 AI Projects
@@ -54,14 +58,15 @@ From blockchain-powered platforms to multimodal AI systems, I’ve enjoyed worki
 - Multimodal Generation & Retrieval-Augmented Generation (RAG)  
 - Explainable AI & ethical tech applications  
 - React & TypeScript for intuitive and intelligent interfaces  
-- **Collaborative development** and learning through teamwork
+- **Collaborative development** and learning through teamwork  
+- Cultivating my GitHub garden — one 🥦 at a time
 
 ---
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/yoojeong-lee-038168311)
-- 🧪 [My Projects]([https://github.com/your-profile?tab=repositories](https://github.com/uujeongLee?tab=repositories))
+- 💼 [LinkedIn](https://www.linkedin.com/in/yoojeong-lee-038168311)
+- 🧪 [My Projects](https://github.com/uujeongLee?tab=repositories)
 - 📧 Email: uujeong59@sookmyung.ac.kr
 
 Thanks for visiting! ✨
